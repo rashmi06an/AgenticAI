@@ -1,0 +1,193 @@
+query,answer,answer_len,retrieval_k,num_sources,self_confidence,self_quality,mode_used,time_taken,chunk_size,chunk_overlap,k,chain_type
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.65,500,50,3,stuff
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.61,1000,100,5,map_reduce
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,1.26,500,50,3,stuff
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.6,1000,100,5,map_reduce
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.6,500,50,3,stuff
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.62,1000,100,5,map_reduce
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.61,500,50,3,stuff
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.61,1000,100,5,map_reduce
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.64,500,50,3,stuff
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.61,1000,100,5,map_reduce
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.6,500,50,3,stuff
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.63,1000,100,5,map_reduce
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.6,500,50,3,stuff
+What is the latest advancement in Quantum Computing in 2024?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.23,1000,100,5,map_reduce
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,3,2,0.7,4,docs,0.69,500,50,3,stuff
+How do RAG systems handle document indexing?,"# RAG System Overview
+Retrieval-Augmented Generation (RAG) is a technique for enhancing the output of a large language model with information from a specific, often private or dynamic, data source.
+
+## How it works
+1. **Load**: Information is loaded into the system.
+2. **Chunk**: Documents are split into smaller pieces.
+3. **Embed**: Text is converted into numerical vectors.
+4. **Retrieve**: Relevant chunks are found using vector similarity.
+5. **Generate**: The LLM uses the retrieved context to answer.
+
+FAISS is a library for efficient similarity search. It is developed by Facebook AI Research.
+",603,5,2,0.7,4,docs,0.61,1000,100,5,map_reduce

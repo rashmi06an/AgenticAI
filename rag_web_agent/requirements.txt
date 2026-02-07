@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+rank-bm25
+faiss-cpu
+python-dotenv
+pypdf
+docx2txt
+unstructured
+langchain-text-splitters
+pandas
+tabulate
