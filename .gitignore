@@ -1,5 +1,12 @@
+# secrets
 .env
-*.env
 rag_web_agent/.env
-.env
-*.env
+
+# python
+__pycache__/
+*.pyc
+
+# streamlit / local
+.DS_Store
+outputs/faiss_index/
+
